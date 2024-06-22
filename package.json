@@ -1,0 +1,41 @@
+{
+    "name": "project",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev -c \"next dev\"",
+        "build": "tinacms build && next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@headlessui/react": "^2.0.4",
+        "@headlessui/tailwindcss": "^0.2.1",
+        "@heroicons/react": "^2.1.3",
+        "@tailwindcss/forms": "^0.5.7",
+        "@tinacms/auth": "^1.0.4",
+        "js-cookie": "^3.0.5",
+        "next": "14.2.3",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "react-tooltip": "^5.26.4",
+        "tailwindcss": "^3.4.4",
+        "tinacms": "^1.6.4",
+        "validator": "^13.12.0"
+    },
+    "devDependencies": {
+        "@cloudflare/next-on-pages": "^1.11.3",
+        "@tinacms/cli": "^1.5.46",
+        "@types/js-cookie": "^3.0.6",
+        "@types/node": "^20.14.2",
+        "@types/react": "^18.3.3",
+        "@types/react-dom": "^18.3.0",
+        "@types/validator": "^13.12.0",
+        "autoprefixer": "^10.4.19",
+        "eslint": "^8.0.0",
+        "eslint-config-next": "14.2.3",
+        "postcss": "^8.4.38",
+        "tailwindcss": "^3.3.0",
+        "typescript": "^5.4.5"
+    }
+}

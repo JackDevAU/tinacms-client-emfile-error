@@ -1,0 +1,9 @@
+{
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 160,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "editor.formatOnSave": true,
+    "typescript.validate.enable": true,
+    "eslint.useFlatConfig": true
+}

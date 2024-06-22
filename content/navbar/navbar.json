@@ -1,0 +1,57 @@
+{
+    "logo": "",
+    "top_level_items": [
+        {
+            "page": "content/page/tips/1.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/2.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/3.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/4.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/5.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/6.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/7.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/8.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/9.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/10.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/11.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/12.mdx",
+            "_template": "pagelink"
+        },
+        {
+            "page": "content/page/tips/13.mdx",
+            "_template": "pagelink"
+        }
+    ]
+}
